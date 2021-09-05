@@ -7,7 +7,7 @@ Code Challenge for Supply Hound to design a route planner using The World Bank A
 
 Create a new Postman (or equivilent API Test Application) GET request.
 
-Point the request to "http://localhsot:3000/" and use one of the following endpoints:
+Point the request to "http://localhost:3000/" and use one of the following endpoints:
 * Task 1: "/getCountry"
   * Query Parameters:
     * countryCode = **###** (Replacing **###** with an appropriate Country Code)
