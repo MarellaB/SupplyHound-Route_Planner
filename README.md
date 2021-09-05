@@ -17,4 +17,6 @@ Point the request to "http://localhsot:3000/" and use one of the following endpo
     * maxLongitude = **##** (replacing **##** with the longitude value)
     * minLatitude = **##** (replacing **##** with the latitude value)
     * maxLatitude = **##** (replacing **##** with the latitude value)
-* trask 3: [TODO]
+* trask 3: "/getRoute"
+  * Query Parameters:
+    * citiesToVisit = [START, A, B, END] (replacing values with capital city names)
